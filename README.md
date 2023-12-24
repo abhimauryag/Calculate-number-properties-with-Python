@@ -1,4 +1,4 @@
-# 🧮Calculate-number-properties-with-Python
+# 🧮 Calculate-number-properties-with-Python
 
 This is a simple GUI application built with Tkinter in Python that allows users to calculate the square and cube of a given number. Additionally, it provides information such as whether the given number is a square or cube of another number and lists the factors of the given number.
 
@@ -19,15 +19,15 @@ Make sure you have Python and Tkinter installed on your system.
 
 Clone the repository:
 
-`git clone https://github.com/your-username/square-cube-calculator.git`
+`git clone https://github.com/abhimauryag/Calculate-number-properties-with-Python.git`
 
 Navigate to the project directory:
 
-`cd square-cube-calculator`
+`cd Calculate-number-properties-with-Python`
 
 Run the application:
 
-`python calculator.py`
+`python Properties-calculator.py`
 
 ## 📝 Usage
 Enter a number in the input field.
